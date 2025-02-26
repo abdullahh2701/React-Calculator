@@ -19,6 +19,7 @@ const ButtonsContainer = () => {
     "9",
     "0",
     ".",
+    ";",
   ];
   return (
     <div className={styles.buttonsContainer}>
